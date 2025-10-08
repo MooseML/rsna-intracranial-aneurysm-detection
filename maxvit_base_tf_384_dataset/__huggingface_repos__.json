@@ -1,0 +1,1 @@
+{"repos": [{"repoId": "timm/maxvit_base_tf_384.in1k", "repoType": "model", "commitHash": "7094ca2823f80dbf6dfb325814f618ab80d59986", "filePaths": ["model.safetensors"]}]}
