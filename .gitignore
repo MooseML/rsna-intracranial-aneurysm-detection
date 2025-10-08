@@ -4,6 +4,7 @@ vessel_precache/
 *.pt
 *.pth
 *.csv
+*.dcm/
 .vscode/
 venv/
 env/
