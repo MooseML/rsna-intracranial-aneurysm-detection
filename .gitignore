@@ -3,6 +3,7 @@ series/
 vessel_precache/
 *.pt
 *.pth
+*.csv
 .vscode/
 venv/
 env/
